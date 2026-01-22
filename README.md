@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashef/">
-    <img src="https://skillicons.dev/icons?i=python,ts,go,django,nest,vue,docker,postgresql,mysql,prisma,kafka&theme=light&perline=6" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,ts,go,django,nest,vue,docker,postgresql,mysql,redis,prisma,kafka&theme=light&perline=6" alt="Skills" />
   </a>
 </p>
 
